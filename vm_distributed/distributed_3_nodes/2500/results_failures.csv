@@ -1,0 +1,27 @@
+Method,Name,Error,Occurrences
+GET,/product/2ZYFJ3GM2N,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",27
+GET,/cart,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",72
+GET,/product/66VCHSJNUP,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",23
+GET,/product/2ZYFJ3GM2N,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,/product/0PUK6V6EV0,"ConnectionRefusedError(111, 'Connection refused')",12
+GET,/product/1YMWWN1N4O,"ConnectionRefusedError(111, 'Connection refused')",8
+GET,/product/OLJCESPC7Z,"ConnectionRefusedError(111, 'Connection refused')",7
+POST,/cart,"ConnectionRefusedError(111, 'Connection refused')",14
+GET,/,"ConnectionRefusedError(111, 'Connection refused')",11
+POST,/setCurrency,"ConnectionRefusedError(111, 'Connection refused')",9
+POST,/cart/checkout,"ConnectionRefusedError(111, 'Connection refused')",4
+GET,/product/66VCHSJNUP,"ConnectionRefusedError(111, 'Connection refused')",9
+GET,/,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",420
+GET,/product/OLJCESPC7Z,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",40
+GET,/cart,"ConnectionRefusedError(111, 'Connection refused')",22
+GET,/product/6E92ZMYYFZ,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",27
+GET,/product/9SIQT8TOJO,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",29
+GET,/product/9SIQT8TOJO,"ConnectionRefusedError(111, 'Connection refused')",10
+GET,/product/LS4PSXUNUM,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",24
+GET,/product/0PUK6V6EV0,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",31
+GET,/product/L9ECAV7KIM,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",32
+GET,/product/1YMWWN1N4O,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",27
+GET,/product/6E92ZMYYFZ,"ConnectionRefusedError(111, 'Connection refused')",11
+POST,/setCurrency,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 192.168.59.119 timed out. (connect timeout=None)')",33
+GET,/product/L9ECAV7KIM,"ConnectionRefusedError(111, 'Connection refused')",9
+GET,/product/LS4PSXUNUM,"ConnectionRefusedError(111, 'Connection refused')",16
